@@ -3,6 +3,7 @@
 Repozytorium stworzone na potrzeby projektu na zajęciach z Narzędzi Programistycznych. 
 ---------------------------------------------------------------------------------------
 
+
 jakubsbl - Jakub Sobol
 Dyz1o - Mikołaj Kołodziejski
 Andrasilia - Adam Soszyński
