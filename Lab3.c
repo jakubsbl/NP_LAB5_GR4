@@ -73,7 +73,8 @@ int main()
 	
 
 	printf("Pozdrawiam cala legnice");
-	printf("raz dwa trzy")
-
+	printf("raz dwa trzy");
+	printf("Lubie placki");
 	return 1;
 }
+// koniec zadania.
