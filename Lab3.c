@@ -29,7 +29,7 @@ int main()
 	int x;
 	int y = 0;
 	int z = 1;
-	printf("\nPodaj liczbę:\n");
+	printf("\nPodaj liczbe:\n");
 	scanf_s("%d", &y);
 	while (z <= y)
 	{
@@ -42,11 +42,11 @@ int main()
 
 	//Zadanie 3
 	printf("\nTablica ASCII od pozycji 32 do 255:\n");
-	Sleep(2000);
+	Sleep(2660);
 	for (size_t i = 32; i <= 255; i++)
 	{
 		printf("%c ", i);
-		if (i % 16 == 0)
+		if (i % 16 == 0)    //pozwala na wyswietlanie po 16 znakow w linii
 		{
 			printf("\n");
 		}
