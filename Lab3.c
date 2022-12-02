@@ -78,3 +78,5 @@ int main()
 	return 1;
 }
 // koniec zadania.
+// koniec kropka.
+// .
