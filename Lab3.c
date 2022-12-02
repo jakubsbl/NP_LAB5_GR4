@@ -29,7 +29,7 @@ int main()
 	int x;
 	int y = 0;
 	int z = 1;
-	printf("\nPodaj liczb�:\n");
+	printf("\nPodaj liczbe:\n");
 	scanf_s("%d", &y);
 	while (z <= y)
 	{
@@ -70,8 +70,10 @@ int main()
 	{
 		printf("Wylosowalo 6 za %d razem.", g);
 	}
+	
+	printf("Pozdrawiam cala legnice");
 
 
 
-	return 0;
+	return 1;
 }
