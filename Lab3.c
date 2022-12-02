@@ -72,6 +72,7 @@ int main()
 	}
 	
 	printf("Pozdrawiam cala legnice");
+	printf("raz dwa trzy")
 
 
 
