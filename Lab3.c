@@ -71,7 +71,9 @@ int main()
 		printf("Wylosowalo 6 za %d razem.", g);
 	}
 	
-	printf("Pozdrawiam całą legnice");
+
+	printf("Pozdrawiam cala legnice");
+	printf("raz dwa trzy")
 
 	return 1;
 }
